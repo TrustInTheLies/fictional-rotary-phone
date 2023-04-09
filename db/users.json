@@ -1,0 +1,112 @@
+[
+  {
+    "id": "u1",
+    "name": "Oleg",
+    "password": "oleg",
+    "balance": 24400,
+    "cart": [],
+    "history": [
+      {
+        "id": "o1",
+        "contains": [
+          {
+            "id": "b1",
+            "title": "Oleg: Volume I",
+            "author": "Oleg",
+            "year": 2004,
+            "price": 1000,
+            "amount": 2,
+            "contributer": "Oleg"
+          }
+        ],
+        "date": "2022-12-22 14:22"
+      },
+      {
+        "id": "a_STVADJQ6WZWyhycTZawA",
+        "contains": [
+          {
+            "id": "b3",
+            "title": "Oleg: Volume III",
+            "author": "Oleg",
+            "year": 2011,
+            "price": 1600,
+            "amount": 2,
+            "contributer": "Oleg"
+          }
+        ],
+        "date": "2023-03-20 01:06"
+      },
+      {
+        "id": "dQkjRiuRSVe5Y8DWvky-lw",
+        "contains": [
+          {
+            "id": "b1",
+            "title": "Oleg: Origins",
+            "author": "Oleg",
+            "year": 2004,
+            "price": 1000,
+            "amount": 1,
+            "contributer": "Oleg"
+          },
+          {
+            "id": "b3",
+            "title": "Oleg: Volume III",
+            "author": "Oleg",
+            "year": 2011,
+            "price": 1600,
+            "amount": 6,
+            "contributer": "Oleg"
+          }
+        ],
+        "date": "2023-03-20 13:28"
+      },
+      {
+        "id": "b1a2lrKNSuqjVO5cNrigLA",
+        "contains": [],
+        "date": "2023-03-20 13:28"
+      },
+      {
+        "id": "7YDxc5drR7O2ME7osMCL8g",
+        "contains": [
+          {
+            "id": "Av8_9jB9Ru-MWDgBf6_NoQ",
+            "title": "Oleg: Last Trip",
+            "author": "Oleg",
+            "year": 2023,
+            "price": 5000,
+            "amount": 2,
+            "contributer": "Oleg"
+          }
+        ],
+        "date": "2023-03-20 16:52"
+      },
+      {
+        "id": "pyW-xKO8QDy9rsyey3kLrw",
+        "contains": [
+          {
+            "id": "BlzjTrdJTc6PVjCMtNERDQ",
+            "title": "OLEG",
+            "author": "test",
+            "year": 2000,
+            "price": 2000,
+            "amount": 8,
+            "contributer": "Oleg"
+          }
+        ],
+        "date": "2023-03-24 23:24"
+      }
+    ],
+    "regdate": "2022-12-22 12:00",
+    "admin": true
+  },
+  {
+    "id": "oMsHdtxCQOuWSzD5PbD31g",
+    "name": "oleg",
+    "password": "oleg",
+    "balance": 0,
+    "cart": [],
+    "history": [],
+    "regdate": "2023-01-16 19:27",
+    "admin": false
+  }
+]
